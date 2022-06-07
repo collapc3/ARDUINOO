@@ -1,4 +1,5 @@
-# REGADO ARDUINOO CODIGO
+# REGADO ARDUINOO CODIGO USM TELEMATICA
+#BENJA, SANTI Y NICO.
 
 
 #include <DHT.h>//Incluyo la librería del sensor DHT11
